@@ -1,0 +1,6 @@
+name: dssc-num
+channels:
+  - defaults
+dependencies:
+  - jupyter
+prefix: /home/mathias/anaconda3/envs/dssc-num
