@@ -3,4 +3,5 @@ channels:
   - defaults
 dependencies:
   - jupyter
+  - numpy
 prefix: /home/mathias/anaconda3/envs/dssc-num
