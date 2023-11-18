@@ -4,4 +4,5 @@ channels:
 dependencies:
   - jupyter
   - numpy
+  - matplotlib
 prefix: /home/mathias/anaconda3/envs/dssc-num
