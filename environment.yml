@@ -3,6 +3,6 @@ channels:
   - defaults
 dependencies:
   - jupyter
-  - numpy
+  - scikit-learn
   - matplotlib
 prefix: /home/mathias/anaconda3/envs/dssc-num
